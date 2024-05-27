@@ -28,6 +28,11 @@ nav a, #avt {
     border: none;
     font-weight: bold;
 }
+
+nav a, #avt:hover {
+    color: rgb(222, 213, 236);
+}
+
 #np{
     text-decoration: none;
     padding: 16px 42px;
@@ -37,6 +42,12 @@ nav a, #avt {
     color: white;
     font-size: 16px;
 }
+#np:hover{
+    transition: color 1 s, border-color 0.5s;
+    color: rgb(100, 0, 255);
+    border-color: rgb(100, 0, 255);
+}
+
 
 
 
@@ -76,8 +87,11 @@ a{
     border-color: rgb(100, 0, 255);
     font-size: 16px;    
 }
-
-
+.a:hover {
+    transition: color 1 s, border-color 0.5s;
+    color: rgb(255, 0, 0);
+    border-color: rgb(255, 0, 0);
+}
 
 /*FOOTER*/
 footer{
