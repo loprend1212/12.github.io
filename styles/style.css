@@ -127,3 +127,8 @@ table {
  th, td {
     border: 1px solid rgb(100, 0, 255);
  }
+
+ #nvt{
+    border: none;
+
+ }
