@@ -102,8 +102,8 @@ footer{
     background: #000000;
 }
   #footer{
-    max-width: 80%; /*Максимальная ширина от предпросмотра*/
-    margin: 0 auto; /*Автоматический размер отступов слева и справа */
+    max-width: 80%; 
+    margin: 0 auto; 
 	
     color: white;
     padding: 12px 40px;
@@ -128,7 +128,6 @@ display: block;
 
 .login{
     max-width: 40%;
-    border-radius: 20px;
     background-color: rgb(100, 0, 255);
     color: rgb(255, 255, 255);
     margin: 5% auto 10% auto;
