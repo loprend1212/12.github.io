@@ -87,7 +87,7 @@ a{
     border-color: rgb(100, 0, 255);
     font-size: 16px;    
 }
-.a:hover {
+a:hover {
     transition: color 1 s, border-color 0.5s;
     color: rgb(255, 0, 0);
     border-color: rgb(255, 0, 0);
