@@ -1,21 +1,21 @@
 *{
-    margin: 0; /*Убирает отступы по умолчанию*/
+    margin: 0; 
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .container{
-    max-width: 80%; /*Максимальная ширина от предпросмотра*/
-    margin: 0 auto; /*Автоматический размер отступов слева и справа */
+    max-width: 80%; 
+    margin: 0 auto; 
 }
 
 .container1{
-    max-width: 80%; /*Максимальная ширина от предпросмотра*/
-    margin: 30px auto; /*Автоматический размер отступов слева и справа */
+    max-width: 80%; 
+    margin: 30px auto; 
 }
 
 .content_nav{
-    display: flex; /*Свойство флекс-контейнера*/
-    justify-content: space-between; /*Распределение по горизонтали*/
+    display: flex; 
+    justify-content: space-between; 
     position: absolute;
     width: 80%;
     padding-top: 20px;
